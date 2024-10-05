@@ -10,7 +10,6 @@ Convolution operations modify pixel values based on their neighbors, a technique
 
 - **Filters Implemented**:
   - **Sharpen**: Enhances edges and fine details.
-  - **Blur**: Reduces image noise and smooths details.
   - **Edge Detection**: Identifies and highlights boundaries within the image.
 
 - **Assembly-Language Optimization**:
@@ -47,8 +46,9 @@ Here’s an example of a **sharpen kernel**:
 Examples of images after applying different filters:
 
 1. **Sharpened Image**: Enhanced edges and details.
-2. **Blurred Image**: Smoother image with reduced noise.
-3. **Edge Detection**: Highlighted boundaries of objects in the image.
+![Sharpened Image](images/sharpened_image.png)
+2. **Edge Detection**: Highlighted boundaries of objects in the image.
+![Edge Detection Image](images/edge.png)
 
 
 ## Getting Started
