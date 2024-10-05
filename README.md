@@ -40,6 +40,7 @@ Here’s an example of a **sharpen kernel**:
  0  -1  0
 -1   5  -1
  0  -1  0
+```
 
 ## Processed Image Samples
 
