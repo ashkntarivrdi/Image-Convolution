@@ -48,7 +48,7 @@ Examples of images after applying different filters:
 1. **Sharpened Image**: Enhanced edges and details.
 ![Sharpened Image](images/sharpened_image.png)
 2. **Edge Detection**: Highlighted boundaries of objects in the image.
-![Edge Detection Image](images/edge.png)
+![Edge Detection Image](https://github.com/ashkntarivrdi/Image-Convolution/edge_img.png)
 
 
 ## Getting Started
