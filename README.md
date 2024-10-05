@@ -50,15 +50,6 @@ Examples of images after applying different filters:
 2. **Blurred Image**: Smoother image with reduced noise.
 3. **Edge Detection**: Highlighted boundaries of objects in the image.
 
-## Benchmarks
-
-Assembly optimizations result in significant performance improvements over higher-level languages. Below are the average processing times for various filters:
-
-| Filter         | Avg. Time (s) |
-|----------------|---------------|
-| Sharpen        | 0.378         |
-| Blur           | 0.387         |
-| Edge Detection | 0.453         |
 
 ## Getting Started
 
