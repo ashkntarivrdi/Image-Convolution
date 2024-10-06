@@ -20,7 +20,7 @@ Convolution operations modify pixel values based on their neighbors, a technique
 
 ## Project Structure
 
-- **Kernel Definitions**: Located in `cross_normal.asm` and `cross_parallel.asm`, defining the convolution filters.
+- **Kernel Definitions**: Located in `normalCross.asm` and `parallelCross.asm`, defining the convolution filters.
 - **Image Processing**: The assembly routines handle pixel-by-pixel image transformations.
 - **Matrix Operations**: Utilities such as matrix transposition are implemented to enhance convolution efficiency.
 - **Sample Images**: Included test images demonstrate the visual effect of each filter.
@@ -66,7 +66,7 @@ Examples of images after applying different filters:
 2. Compile the assembly code using NASM:
 
    ```bash
-   nasm -f elf64 cross_normal.asm
+   nasm -f elf64 normalCross.asm
 3. Run the program with your input image:
 
    ```bash
