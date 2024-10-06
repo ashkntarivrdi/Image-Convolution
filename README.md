@@ -43,7 +43,7 @@ Here’s an example of a **sharpen kernel**:
 
 ## Processed Image Samples
 
-### Prheprocced Image
+### Preprocced Image
 ![normal_img](https://github.com/user-attachments/assets/ee15e2d2-6de3-490b-b2a1-ba1f76ba993f)
 
 
