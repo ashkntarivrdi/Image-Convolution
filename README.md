@@ -43,12 +43,18 @@ Here’s an example of a **sharpen kernel**:
 
 ## Processed Image Samples
 
+### Prheprocced Image
+![normal_img](https://github.com/user-attachments/assets/a4be765e-f1fe-4490-855e-aaa77d5711ee)
+
+
 Examples of images after applying different filters:
 
 1. **Sharpened Image**: Enhanced edges and details.
-![Sharpened Image](images/sharpened_image.png)
+![sharpened_img](https://github.com/user-attachments/assets/7ba73521-29a6-456f-b813-ffe105415add)
+
 2. **Edge Detection**: Highlighted boundaries of objects in the image.
-![Edge Detection Image](https://github.com/ashkntarivrdi/Image-Convolution/images/edge_img.png)
+![edge_img](https://github.com/user-attachments/assets/80360425-c5bf-44b6-992f-5c7163596e7e)
+
 
 
 ## Getting Started
